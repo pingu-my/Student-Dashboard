@@ -49,7 +49,7 @@ Your browser will open the dashboard.
 
 ## Expected attendance structure
 
-The app is designed around the supplied FSE10024 attendance workbook, but it does not hard-code `Sheet1`–`Sheet15` or specific dates.
+The app is designed around the supplied attendance workbook, but it does not hard-code `Sheet1`–`Sheet15` or specific dates.
 
 Each usable sheet should contain:
 - a row with the headings `Student Number` and `Student Name`;
